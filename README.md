@@ -11,3 +11,11 @@
 >>> Array de Pessoa
 
 >>> Cadastro Pessoa Main
+
+> Aula 3 - (Array)
+
+>> Criando um novo array para aumentar o tamanho da alocação do objeto pessoa
+
+>> Busca binária para procurar pelo id um indice do objeto pessoa
+
+>> Remover um objeto da lista
